@@ -26,6 +26,8 @@ and views them as learning experience.
   2. keep failing in doing some tasks without failure you wont learn others failed thousends of times as well.
   3. finding your self lost always have a goal the bigger the better only those who dream can accomplish greatness.
 
+## a picture to illustrate some differences between the two mindsets:
+![difference between mindsets](https://cdn.shopify.com/s/files/1/2013/0229/products/growth_mindset_printable_poster_kids_3@2x.png?v=1531968705)
 
 ## auther's info:
 - **name:** Saeed Awwad.
