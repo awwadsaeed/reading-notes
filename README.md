@@ -10,7 +10,7 @@ it all depends on the **type** of mindset one has.
 there are *two* types of mindsets one could have:
 - fixed mindset.
 - growth mindset.  
-***this web page will discuss some points on growth mindset and some tips to help stay in it***
+*this web page will discuss some points on growth mindset and some tips to help stay in it*
 
 ## what is a growth mindset
 a growth mindset is a mindset that believes that traits and talent are not fixed 
