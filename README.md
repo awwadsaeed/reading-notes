@@ -4,6 +4,7 @@
 
 | assingment     | link                                  |
 | ---------------| --------------------------------------|
+| lab21          | [Learning Markdown](lab2a.md)         |
 | read01         | [The Coder's Computer](read01.md)     |
 | read02a        | [Learning Markdown](read02a.md)       |
 | read02b        | [Revisions and the Cloud](read02b.md) |
