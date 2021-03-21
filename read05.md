@@ -1,7 +1,7 @@
 # operators and loops   
 this page will contain some info on loops and operators.
 ## Loops
-**what are loops** 
+**what are loops**   
 loops are what we use to do a certain block of code a number of times this number may or may not be known this determines the type of loop used.  the loops are controled with a conditoin and as longt as that condition holds true the code will be repeated.  
 **loop types**   
 there are 3 common loops which are:
