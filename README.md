@@ -3,16 +3,16 @@
 **[github profile](https://github.com/awwadsaeed)**
 ## reading notes 102
 
-| assingment     | link                                      |
-| ---------------| ------------------------------------------|
-| lab2a          | [Learning Markdown](lab2a.md)             |
-| read01         | [The Coder's Computer](read01.md)         |
-| read02a        | [Learning Markdown](read02a.md)           |
-| read02b        | [Revisions and the Cloud](read02b.md)     |
-| read03         | [Structure web pages with HTML](read03.md)|
-| read04         | [Programming with JavaScript](read04.md)  |
-| read05         | [Operators and Loops](read05.md)          |
-| read06         | [Design web pages with CSS](read06.md)    |
+| assingment     | link                                          |
+| ---------------| ----------------------------------------------|
+| lab2a          | [Learning Markdown](102/lab2a.md)             |
+| read01         | [The Coder's Computer](102/read01.md)         |
+| read02a        | [Learning Markdown](102/read02a.md)           |
+| read02b        | [Revisions and the Cloud](102/read02b.md)     |
+| read03         | [Structure web pages with HTML](102/read03.md)|
+| read04         | [Programming with JavaScript](102/read04.md)  |
+| read05         | [Operators and Loops](102/read05.md)          |
+| read06         | [Design web pages with CSS](102/read06)       |
 
 ## reading notes 201
 
