@@ -17,20 +17,20 @@
 ## reading notes 201
 
 
-| assingment     | link                                      |
-| ---------------| ------------------------------------------|
-| read01         |                                           |
-| read02         |                                           |
-| read03         |                                           |
-| read04         |                                           |
-| read05         |                                           |
-| read06         |                                           |
-| read07         |                                           |
-| read08         |                                           |
-| read09         |                                           |
-| read010        |                                           |
-| read011        |                                           |
-| read012        |                                           |
-| read013        |                                           |
-| read014        |                                           |
-| read015        |                                           |
+| assingment     | link                                       |
+| ---------------| ------------------------------------------ |
+| read01         |                                            |
+| read02         | [Basics of HTML, CSS & JS](201/class-02.md)|
+| read03         |                                            |
+| read04         |                                            |
+| read05         |                                            |
+| read06         |                                            |
+| read07         |                                            |
+| read08         |                                            |
+| read09         |                                            |
+| read010        |                                            |
+| read011        |                                            |
+| read012        |                                            |
+| read013        |                                            |
+| read014        |                                            |
+| read015        |                                            |
