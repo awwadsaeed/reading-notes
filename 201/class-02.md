@@ -69,7 +69,7 @@ the (=) sign is calle the assignment operator.
 operators are symbols used to do some tasks depending on the type of the operators. we have **logical operators, mathmatical operators and comparison operators**.  
 operators are fairly easy specialy the mathmatical ones as the + sign does addition and - does subtraction we use * for multiplication and / for division. as for the comparison operators as the name emplys they compare between 2 values this makes an expression we have the less than operator(<), equal operator(==), more than(>) operator and not equal (!=) operator.  
 the logical operator are used to evaluate two expressions to give a boolean of true or false. a picture is better than a thousand words so here is a picture for some clarification:  
-![logical_operators](images/logical.jpg)  
+![logical_operators](../images/logical.jpg)  
 ### conditional statments
 conditional statments are a block of code excuted when a cetain condition is met we will discuss if statemnt briefly the if statment is written easily as followin:  
 if(condition){  
