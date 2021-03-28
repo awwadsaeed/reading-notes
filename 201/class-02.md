@@ -17,7 +17,7 @@ h1 represents the main heading and the others are all supp headings.
 HTML displays h1 the largest and it gets smaller with h2 and smaller with h3 and so on.  
 the h1 heading has more importance than the others as the search engings look for h1, as for the size it can be changed with CSS.
 heading tags are written bitween angular brakets with the assossiat level like: `<h1>`HEADING TEXT HERE`</h2>` or `<h2>`HEADING TEXT HERE`</h2>`(note that without css h2 heading is smaller that h1 heading).here is a picture to make things clearer:  
-![html headings](/images/headings.jpg)  
+![html headings](../images/headings.jpg)  
 
 ## what is CSS and why we use it  
 CSS stands for cascading style sheets. while the HTML defines the structure of the page, CSS defines **HOW** the structre will look like. as i want the image on the left with this size and the text to appear next to the image with this specific color and i want the back ground to look like this and so on so forth.  
