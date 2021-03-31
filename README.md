@@ -23,7 +23,7 @@
 | read02         | [Basics of HTML, CSS & JS](201/class-02.md)                               | 
 | read03         | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md)|             
 | read04         | [HTML Links, CSS Layout, JS Functions](201/class-04.md)                   |
-| read05         |                                                                           |
+| read05         | [HTML Images; CSS Color & Text](201/class-05.md)                          |
 | read06         |                                                                           |
 | read07         |                                                                           |
 | read08         |                                                                           |
