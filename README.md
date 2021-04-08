@@ -28,8 +28,8 @@
 | read07         | [Object-Oriented Programming, HTML Tables](201/class-07.md)               |
 | read08         |                                                                           |
 | read09         | [Forms and JS Events](201/class-09.md)                                    |
-| read010        |                                                                           |
-| read011        | [Debugging](201/class-10.md)                                              |
+| read010        | [Debugging](201/class-10.md)                                              |
+| read011        |                                                                           |
 | read012        |                                                                           |
 | read013        |                                                                           |
 | read014        |                                                                           |
