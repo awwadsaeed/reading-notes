@@ -29,7 +29,7 @@
 | read08         |                                                                           |
 | read09         | [Forms and JS Events](201/class-09.md)                                    |
 | read010        |                                                                           |
-| read011        |                                                                           |
+| read011        | [Debugging](201/class-10.md)                                              |
 | read012        |                                                                           |
 | read013        |                                                                           |
 | read014        |                                                                           |
