@@ -30,7 +30,7 @@
 | read09         | [Forms and JS Events](201/class-09.md)                                    |
 | read010        | [Debugging](201/class-10.md)                                              |
 | read011        |                                                                           |
-| read012        |                                                                           |
+| read012        | [Canvas html](201/class-12.md)                                            |
 | read013        |                                                                           |
 | read014        |                                                                           |
 | read015        |                                                                           |
