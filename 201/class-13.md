@@ -16,4 +16,4 @@ and in the hover you need to specify the new width:
 div:hover{  
     width:200px;  
 }  
-**the prevous example is a simplified version of one in W3Schools visit [W3Schools]('https://www.w3schools.com/css/css3_transitions.asp')for more info.**
+**the prevous example is a simplified version of one in W3Schools visit [W3Schools]('https://www.w3schools.com/css/css3_transitions.asp') for more info.**
