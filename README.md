@@ -34,4 +34,16 @@
 | read013        | [HTML storage and CSS transitions](201/class-13.md)                       |
 | read014        | [why some groups perfom better than others](201/class-14.md)              |
 | read015        |                                                                           |
-              
+  
+    
+## reading notes 301
+| assingment     | link                                          |
+| ---------------| ----------------------------------------------|
+|                |                                               |
+|                |                                               |
+|                |                                               |
+|                |                                               |
+|                |                                               |
+|                |                                               |
+|                |                                               |
+|                |                                               |

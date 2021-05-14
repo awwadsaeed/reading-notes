@@ -1,2 +1,2 @@
-#random thing to make the file and folder saved
+# random things to make the file and folder save
  
