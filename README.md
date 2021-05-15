@@ -36,14 +36,18 @@
 | read015        |                                                                           |
   
     
-## reading notes 301
-| assingment     | link                                          |
-| ---------------| ----------------------------------------------|
-|                |                                               |
-|                |                                               |
-|                |                                               |
-|                |                                               |
-|                |                                               |
-|                |                                               |
-|                |                                               |
-|                |                                               |
+## reading notes 301  
+
+| assingment     | link                                                  |
+| ---------------| ------------------------------------------------------|
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read01         | [Introduction to React and Components](301/read01.md) |
