@@ -41,7 +41,7 @@
 | assingment     | link                                                  |
 | ---------------| ------------------------------------------------------|
 | read01         | [Introduction to React and Components](301/read01.md) |
-| read01         | [Introduction to React and Components](301/read01.md) |
+| read02         | [State and Props](301/read02.md)                      |
 | read01         | [Introduction to React and Components](301/read01.md) |
 | read01         | [Introduction to React and Components](301/read01.md) |
 | read01         | [Introduction to React and Components](301/read01.md) |
