@@ -16,5 +16,15 @@ seperate arrays values, add arrays, seperat assignment binding.
 `let arr2 = [d,g,h]`  
 `let arr3 = [...arr1,...arr2]`
 - Give an example of using the spread operator to add a new item to an array.
-`let arr4=[...arr2,...item]`
+`let arr4=[...arr2,item]`
 - Give an example of using the spread operator to combine two objects into one.
+`{...objectOne, ...objectTwo}`
+
+- In the video, what is the first step that the developer does to pass functions between components?  
+create the function in the parent component.
+- In your own words, what does the increment function do?  
+changes the state of the parent component by being passed as props to the child component and being called there.
+- How can you pass a method from a parent component into a child component?  
+like a normal prop.
+- How does the child component invoke a method that was passed to it from a parent component?  
+simply calling it using this.methond name
