@@ -9,8 +9,8 @@ it meanst to build a version that takes your data model and renders the UI but h
 interactivity
 - What are the three questions you can ask to determine if something is state?  
  they are:  
- - Is it passed in from a parent via props?
- - Does it remain unchanged over time?
- - Can you compute it based on any other state or props in your component?
+  Is it passed in from a parent via props?  
+ Does it remain unchanged over time?  
+ Can you compute it based on any other state or props in your component?  
 - How can you identify where state needs to live?
 Identify every component that renders something based on that state and Find a common owner component which will propably be the state owner and if not then a higher component would own the state.
