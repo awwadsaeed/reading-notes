@@ -50,4 +50,4 @@
 | read08         | [APIs](301/read08.md)                                 |
 | read09         | [Functional Programming Concepts](301/read09.md)      |
 | read010        | [Introduction to React ad Components](301/read010.md) |
-| read011        | [Authentication](301/read11.md)                      |
+| read011        | [Authentication](301/read11.md)                       |
