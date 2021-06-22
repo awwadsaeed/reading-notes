@@ -52,4 +52,26 @@
 | read010        | [Introduction to React ad Components](301/read010.md) |
 | read11         | [Mongo and Mongoose  ](301/read11.md)                 |
 | read12         | [Authentication](301/read12.md)                       |
+| read13         | [CRUD](301/read13.md)                                 |  
+  
+
+
+
+
+## reading notes 401  
+
+| assingment     | link                                                  |
+| ---------------| ------------------------------------------------------|
+| read01         | [Introduction to React and Components](301/read01.md) |
+| read02         | [State and Props](301/read02.md)                      |
+| read03         | [Passing Functions as Props](301/read03.md)           |
+| read04         | [ React and Forms](301/read04.md)                     |
+| read05         | [Putting it all together](301/read05.md)              |
+| read06         | [NODE.JS](301/read06.md)                              |
+| read07         | [REST](301/read07.md)                                 | 
+| read08         | [APIs](301/read08.md)                                 |
+| read09         | [Functional Programming Concepts](301/read09.md)      |
+| read10         | [Introduction to React ad Components](301/read010.md) |
+| read11         | [Mongo and Mongoose  ](301/read11.md)                 |
+| read12         | [Authentication](301/read12.md)                       |
 | read13         | [CRUD](301/read13.md)                                 |
