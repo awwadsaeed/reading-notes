@@ -5,7 +5,7 @@ Services or tools that allow you to “mock” an API for development
 - Postman.
 - Mocky.io.
 - MockServer.  
-
+  
 
 
 | term           | describtion                                                            |
@@ -13,7 +13,8 @@ Services or tools that allow you to “mock” an API for development
 | web server     | a server that sends an html file as a response                         |
 | Express        | a light node framework that provides multiple services for the back end|
 | Routing        | how does an application end point responds to client request           |
-| WRRC           | web request response circle                                            |  
+| WRRC           | web request response circle                                            |    
+
 Which 3 things had you heard about previously and now have better clarity on?  
 web server, Express and WRRc.  
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?  
