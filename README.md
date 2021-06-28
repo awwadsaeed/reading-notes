@@ -64,7 +64,7 @@
 | ---------------| ------------------------------------------------------|
 | read01         | [Node Ecosystem, TDD, CI/CD](401/read01.md)           |
 | read02         | [Express](401/read02.md)                              |
-| read03         | [Passing Functions as Props](301/read03.md)           |
+| read03         | [Express REST API](401/read03.md)                     |
 | read04         | [ React and Forms](301/read04.md)                     |
 | read05         | [Putting it all together](301/read05.md)              |
 | read06         | [NODE.JS](301/read06.md)                              |
