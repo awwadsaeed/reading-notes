@@ -1,6 +1,6 @@
 # Access Control (ACL)
 
-* Review, Research, and Discussion
+#### Review, Research, and Discussion
 1. When is Basic Authorization used vs. Bearer Authorization?
 
 - Basic Authorization --> in the sign in process, to verify the username and password
@@ -14,7 +14,7 @@
 - Save in a changeable environment (dotenv)
 
 
-* Preview
+### Preview
 1. Which 3 things had you heard about previously and now have better clarity on?
 - Tokens 
 - Bearer Authentication
