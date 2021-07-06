@@ -69,8 +69,8 @@
 | read05         | [Linked lists](401/read05.md)                         |
 | read06         | [Authentication ](401/read06.md)                      |
 | read07         | [Bearer Authorization](401/read07.md)                 | 
-| read08         | [Access Control (ACL)](401/read08.md)                                 |
-| read09         | [Functional Programming Concepts](301/read09.md)      |
+| read08         | [Access Control (ACL)](401/read08.md)                 |
+| read09         | [SQL database](401/read09.md)                         |
 | read10         | [Introduction to React ad Components](301/read010.md) |
 | read11         | [Mongo and Mongoose  ](301/read11.md)                 |
 | read12         | [Authentication](301/read12.md)                       |
