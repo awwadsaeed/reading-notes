@@ -78,3 +78,4 @@
 | read14         | [Event Driven Architecture](401/read14.md)            |
 | read16         | [Event Driven Architecture](401/read16.md)            |
 | read17         | [AWS: S3 and Lambda](401/read17.md)                   |
+| read18         | [AWS: API, Dynamo and Lambda](401/read18.md)          |
