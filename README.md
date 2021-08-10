@@ -82,3 +82,4 @@
 | read19         | [AWS: Events](401/read19.md)                          |
 | read20         | [Component Based UI](401/read20.md)                   |
 | read21         | [useState() Hook](401/read21.md)                      |
+| read22         | [Advanced State with Reducers](401/read22.md)         |
