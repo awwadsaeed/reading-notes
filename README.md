@@ -84,3 +84,4 @@
 | read21         | [useState() Hook](401/read21.md)                      |
 | read22         | [Advanced State with Reducers](401/read22.md)         |
 | read23         | [Hash Table](401/read23.md)                           |
+| read24         | [Context API - Behaviors](401/read24.md)              |
