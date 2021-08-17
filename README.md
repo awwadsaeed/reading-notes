@@ -86,3 +86,4 @@
 | read23         | [Hash Table](401/read23.md)                           |
 | read24         | [Context API - Behaviors](401/read24.md)              |
 | read25         | [Login and Auth](401/read25.md)                       |
+| read26         | [API Integration](401/read26.md)                      |
