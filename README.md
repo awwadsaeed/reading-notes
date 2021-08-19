@@ -87,3 +87,4 @@
 | read24         | [Context API - Behaviors](401/read24.md)              |
 | read25         | [Login and Auth](401/read25.md)                       |
 | read26         | [API Integration](401/read26.md)                      |
+| read27         | [Application State with Redux](401/read27.md)         |
