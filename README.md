@@ -88,3 +88,4 @@
 | read25         | [Login and Auth](401/read25.md)                       |
 | read26         | [API Integration](401/read26.md)                      |
 | read27         | [Application State with Redux](401/read27.md)         |
+| read28         | [Redux - Combined Reducers](401/read28.md)            |
